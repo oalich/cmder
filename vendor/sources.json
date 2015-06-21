@@ -18,5 +18,15 @@
         "name": "clink-completions",
         "version": "0.1.0",
         "url": "https://github.com/vladimir-kotikov/clink-completions/archive/0.1.0.zip"
-    }
+    },
++    {
++        "name": "nodejs",
++        "version": "0.12.4",
++        "url": "http://nodejs.org/dist/v0.12.4/node.exe"
++    },
++    {
++        "name": "nodejs/npm",
++        "version": "1.4.9",
++        "url": "http://nodejs.org/dist/npm/npm-1.4.9.zip"
++    }
 ]
