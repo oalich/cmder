@@ -49,6 +49,10 @@
 :: Add aliases
 @doskey /macrofile="%CMDER_ROOT%\config\aliases"
 
+:: Node.js support
+@set NODE_HOME=%CMDER_ROOT%\vendor\nodejs
+@set NODE_PATH=%NODE_HOME%\node_modules
+
 :: Set home path
 @if not defined HOME set HOME=%USERPROFILE%
 
